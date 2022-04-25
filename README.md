@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Ivan Chokoyski
-- I'm currently working as Applications Operations Engineer
+- I'm currently working as App Ops Engineer
 - 👀 I’m interested in: linux and Windows servers, Front End Development 
 - 🌱 I’m currently learning: Windows Administration, Linux Administration, HTML, CSS, JavaScript and C#
 - 💞️ I’m looking to collaborate on
