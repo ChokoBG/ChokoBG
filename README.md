@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Ivan Chokoyski
 - I'm currently working as App Ops Engineer
-- 👀 I’m interested in: linux and Windows servers, Front End Development 
+- 👀 I’m interested in: Linux, CyberSecurity, C#, Front End Development, DevOps
 - 🌱 I’m currently learning: Windows Administration, Linux Administration, HTML, CSS, JavaScript and C#
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me: ivanchokoyski@gmail.com
