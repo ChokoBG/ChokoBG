@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Ivan Chokoyski
 - I'm currently working as Middleware Engineer
-- 👀 I’m interested in: Linux, CyberSecurity, Python, Front End Development, DevOps
-- 🌱 I’m currently learning: Windows Administration, Linux Administration, Shell Script and Python
+- 👀 I’m interested in: Linux, CyberSecurity, Python, DevOps
+- 🌱 I’m currently learning: Windows Administration, Linux Administration, Shell Scripting, Automation and Python
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me: ivanchokoyski@gmail.com
 
